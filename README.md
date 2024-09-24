@@ -1,4 +1,4 @@
-Discord Bot README
+Discord Bot
 Overview
 
 This is a custom Discord bot built using the discord.py library. The bot interacts with the Mobafire and U.GG websites to fetch League of Legends champion builds, runes, matchups, and stats. Additionally, it can handle image download, manipulation, and sending images as attachments within the Discord server.

@@ -32,3 +32,5 @@ Image Manipulation Functions
     Image Download and Send: Downloads and sends single or multiple images to the Discord channel.
     Merge Images: Merges multiple images horizontally and sends them as one image.
     Crop Image: Crops a specified portion of an image and sends it.
+![Screenshot 2024-09-24 232442](https://github.com/user-attachments/assets/1e312f63-fa0d-44ea-bf14-0eaf0590a53e)
+![Screenshot 2024-09-24 232428](https://github.com/user-attachments/assets/5b0cadf3-8016-4ffc-9556-602c5895a799)

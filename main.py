@@ -327,4 +327,4 @@ async def meta(ctx, role):
 
 
 # Run the bot with your token
-bot.run('MTIwNjkxMzI3NTQzOTM0OTc5MQ.G55Xd8.qxz8u3VYE3fSql2vZGnGGC5uACZM101IsKDVyc')
+bot.run('TOKEN')
